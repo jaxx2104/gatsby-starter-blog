@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---my-second-post": [
-      "path---my-second-post-6abc374bce20e31294cf.js",
-      "path---my-second-post-6abc374bce20e31294cf.js.map"
+      "path---my-second-post-4e75eb4820c6040c4869.js",
+      "path---my-second-post-4e75eb4820c6040c4869.js.map"
     ],
     "page-component---src-pages-index-js": [
       "page-component---src-pages-index-js-3d8af260cea3d26a9c31.js",
@@ -13,8 +13,8 @@
       "page-component---src-templates-blog-post-js-b11f1a9dc2d3596a6426.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-75c79c65dbfebe133069.js",
-      "path---hi-folks-75c79c65dbfebe133069.js.map"
+      "path---hi-folks-8fc064cf941fcae17a4b.js",
+      "path---hi-folks-8fc064cf941fcae17a4b.js.map"
     ],
     "page-component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "page-component---node-modules-gatsby-plugin-offline-app-shell-js-4f0dddda43ae15168f16.js",
@@ -25,8 +25,8 @@
       "path---index-378de0a98c7727f3e799.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-3a313597c24d8f6388bf.js",
-      "path---hello-world-3a313597c24d8f6388bf.js.map"
+      "path---hello-world-f179b49874b3fc337ff7.js",
+      "path---hello-world-f179b49874b3fc337ff7.js.map"
     ],
     "commons": [
       "commons-871ae53315fefab69d65.js",
